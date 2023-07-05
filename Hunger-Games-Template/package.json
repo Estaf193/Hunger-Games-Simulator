@@ -1,0 +1,12 @@
+{
+  "name": "hunger-games-simulator",
+  "version": "1.0.0",
+  "description": "A Hunger Games Simulator in Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Estaf193",
+  "license": "MIT",
+  "dependencies": {}
+}
